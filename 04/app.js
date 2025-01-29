@@ -1,5 +1,5 @@
 //  file:///D:/Alura/Logica/Curso02/04/index.html
-
+//
 //Wilder Hoy, 29/01/2025
 /*
 Crea una función que reciba una lista de números y devuelva una nueva lista con el cuadrado de cada número.
