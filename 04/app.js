@@ -4,7 +4,7 @@
 /*
 Crea una función que reciba una lista de números y devuelva una nueva lista con el cuadrado de cada número.
 */   
-prompt("Miercoles 29Enero2025 Wilder y Yalu");
+prompt("Miercoles 29Enero2025 Wilder y Yalu y Mabel");
 let numeroCuadrado = [1, 2, 3, 4, 5];
 function cuadrado(lista) {
     let numeroCuadrado = [];
